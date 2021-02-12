@@ -19,6 +19,9 @@ Reach me out 👇
 ](https://www.linkedin.com/in/pedro-dias-pereira-5%C2%B0-904a48198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEhZKiyQZQbGnlYd8q3gfjQ%3D%3D) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrodiaasx123/)
 ](https://www.instagram.com/pedrodiaasx123/)
 
+
+![Pedro Dias's GitHub stats](https://github-readme-stats.vercel.app/api?=pediasprogrameranuraghazra&show_icons=true&theme=radical)
+
 <!--
 **pediasprogramer/pediasprogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
