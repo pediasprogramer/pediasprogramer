@@ -22,8 +22,6 @@ Reach me out 👇
 [![pediasprogramer's GitHub stats](https://github-readme-stats.vercel.app/api?username=pediasprogramer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
-![pediasprograme's GitHub stats](https://github-readme-stats.vercel.app/api?username=pediasprogrameanuraghazra&show_icons=true&theme=radical)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
