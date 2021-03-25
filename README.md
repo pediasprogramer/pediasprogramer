@@ -18,6 +18,7 @@ Reach me out 👇
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-dias-pereira-5%C2%B0-904a48198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEhZKiyQZQbGnlYd8q3gfjQ%3D%3D)
 ](https://www.linkedin.com/in/pedro-dias-pereira-5%C2%B0-904a48198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEhZKiyQZQbGnlYd8q3gfjQ%3D%3D) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrodiaasx123/)
 ](https://www.instagram.com/pedrodiaasx123/)
+![lattes.cnpq Badge](https://img.shields.io/badge/-lattes.CNPQ-red?style=flat-square&logo=lattes&logoColor=white&link=http://lattes.cnpq.br/5133436807967390)
 
 ![pediasprogramer´s GitHub stats](https://github-readme-stats.vercel.app/api?username=pediasprogramer&show_icons=true&theme=radical)
 
