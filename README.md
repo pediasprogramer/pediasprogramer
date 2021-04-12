@@ -26,7 +26,7 @@ Reach me out 👇
 <h2>languages:</h2>
 
 
-<img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/JavaScript-logo.png" width=60 height=60 alt="js">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/MySQL-logo.png" width=100 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/flutter-logo.svg" width=60 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/java-logo.png" width=60 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/oracle-logo.png" width=80 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/python-logo.png" width=90 height=60 alt="ms">
+<img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/css.png" width=60 height=60 alt="js">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/java.png" width=100 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/flutter144.png" width=60 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/python.png" width=60 height=60 alt="ms">  <img src="https://https://github.com/pediasprogramer/pediasprogramer/blob/main/mysql144.png" width=80 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/html.png" width=90 height=60 alt="ms">
 <!--
 
 Here are some ideas to get you started:
