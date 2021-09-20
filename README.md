@@ -1,4 +1,4 @@
-# hey 👋
+## Ola me chamo Pedro 👋
 	
 	my name  is Pedro Dias. I´m from 🇧🇷 I´m a passionate For Computer science.   
 	started on 2019. 2020 started my fist project involving technology.💻 
@@ -21,13 +21,21 @@ Reach me out 👇
 ![Lattes Badge](https://img.shields.io/badge/-lattes.CNPQ-red?style=flat-square&logo=lattes&logoColor=white&link=http://lattes.cnpq.br/5133436807967390)
 
 
-![pediasprogramer´s GitHub stats](https://github-readme-stats.vercel.app/api?username=pediasprogramer&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pediasprogramer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pediasprogramer&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <h2>languages:</h2>
 
-
-<img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/css.png" width=60 height=60 alt="js">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/java.png" width=70 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/flutter144.png" width=60 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/python.png" width=60 height=60 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/mysql144.png" width=100 height=100 alt="ms">  <img src="https://github.com/pediasprogramer/pediasprogramer/blob/main/html.png" width=70 height=70 alt="ms">
-<!--
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
 
 Here are some ideas to get you started:
 
