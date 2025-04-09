@@ -15,7 +15,7 @@ Sou de Brasília-DF, atualmente morando em Sobradinho-DF.
 ### 🎓 **Formação**  
 Formado **Ciência da Computação** na [Universidade Paulista (UNIP)](https://www.unip.br/). 
 Especializando Ciência de Dados pela Faculdade GranCursos
-Especializando em Politica de TI
+Especializando em Gestão de TI
 
 ---
 
