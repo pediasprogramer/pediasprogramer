@@ -13,9 +13,9 @@ Amo enfrentar desafios, resolver problemas e aprender coisas novas todos os dias
 Sou de Brasília-DF, atualmente morando em Sobradinho-DF.  
 
 ### 🎓 **Formação**  
-Formado **Ciência da Computação** na [Universidade Paulista (UNIP)](https://www.unip.br/). 
-Especializando Ciência de Dados pela Faculdade GranCursos
-Especializando em Gestão de TI
+Formado em **Ciência da Computação** na [Universidade Paulista (UNIP)](https://www.unip.br/).  
+Especializando em Ciência de Dados pela Faculdade GranCursos.  
+Especializando em Gestão de TI.  
 
 ---
 
@@ -29,6 +29,11 @@ Especializando em Gestão de TI
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
+---
+
+### 🎮 **GitHub Snake Game**
+![Snake animation](https://github.com/pediasprogramer/pediasprogramer/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -69,4 +74,4 @@ Especializando em Gestão de TI
 
 ### 🎉 **Vamos construir algo incrível juntos?**  
 
-Se você também é apaixonado por tecnologia e inovação, vamos trocar ideias e colaborar em projetos incríveis! 😊  
+Se você também é apaixonado por tecnologia e inovação, vamos trocar ideias e colaborar em projetos incríveis! 😊
